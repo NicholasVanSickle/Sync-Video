@@ -1,0 +1,16 @@
+c:\users\nicholas\documents\visual studio 2010\Projects\SyncVideo\SyncVideo\bin\Debug\SyncVideo.exe
+c:\users\nicholas\documents\visual studio 2010\Projects\SyncVideo\SyncVideo\bin\Debug\SyncVideo.pdb
+c:\users\nicholas\documents\visual studio 2010\Projects\SyncVideo\SyncVideo\bin\Debug\Interop.WMPLib.dll
+c:\users\nicholas\documents\visual studio 2010\Projects\SyncVideo\SyncVideo\bin\Debug\AxInterop.WMPLib.dll
+c:\users\nicholas\documents\visual studio 2010\Projects\SyncVideo\SyncVideo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nicholas\documents\visual studio 2010\Projects\SyncVideo\SyncVideo\obj\x86\Debug\Interop.WMPLib.dll
+c:\users\nicholas\documents\visual studio 2010\Projects\SyncVideo\SyncVideo\obj\x86\Debug\AxInterop.WMPLib.dll
+c:\users\nicholas\documents\visual studio 2010\Projects\SyncVideo\SyncVideo\obj\x86\Debug\SyncVideo.csproj.ResolveComReference.cache
+c:\users\nicholas\documents\visual studio 2010\Projects\SyncVideo\SyncVideo\obj\x86\Debug\SyncVideo.Properties.Resources.resources
+c:\users\nicholas\documents\visual studio 2010\Projects\SyncVideo\SyncVideo\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\nicholas\documents\visual studio 2010\Projects\SyncVideo\SyncVideo\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\nicholas\documents\visual studio 2010\Projects\SyncVideo\SyncVideo\obj\x86\Debug\SyncVideo.exe
+c:\users\nicholas\documents\visual studio 2010\Projects\SyncVideo\SyncVideo\obj\x86\Debug\SyncVideo.pdb
+c:\users\nicholas\documents\visual studio 2010\Projects\SyncVideo\SyncVideo\obj\x86\Debug\SyncVideo.ConfigForm.resources
+c:\users\nicholas\documents\visual studio 2010\Projects\SyncVideo\SyncVideo\obj\x86\Debug\SyncVideo.PlayerForm.resources
+C:\Users\Nicholas\Documents\Visual Studio 2010\Projects\SyncVideo\SyncVideo\bin\Debug\SyncVideo.exe.config

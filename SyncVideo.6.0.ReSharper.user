@@ -1,0 +1,291 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:PlayerForm.Designer.cs" caret="0" fromTop="0" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:ConfigForm.Designer.cs" caret="0" fromTop="0" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:Program.cs" caret="503" fromTop="21" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:ConfigForm.cs" caret="1847" fromTop="43" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:PlayerForm.cs" caret="716" fromTop="27" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:SyncServer.cs" caret="998" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:ConfigForm.cs" caret="1043" fromTop="20" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:ConfigForm.cs" caret="1283" fromTop="28" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:ConfigForm.cs" caret="7472" fromTop="33" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:ConfigForm.cs" caret="1582" fromTop="33" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:ConfigForm.cs" caret="6921" fromTop="27" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:ConfigForm.cs" caret="7297" fromTop="42" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:SyncServer.cs" caret="6861" fromTop="41" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:SyncServer.cs" caret="6158" fromTop="21" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:SyncServer.cs" caret="3502" fromTop="23" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:SyncServer.cs" caret="4621" fromTop="39" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:PlayerForm.cs" caret="1477" fromTop="37" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:PlayerForm.cs" caret="1096" fromTop="23" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:ConfigForm.cs" caret="2286" fromTop="9" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:ConfigForm.cs" caret="3271" fromTop="14" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:ConfigForm.cs" caret="2870" fromTop="10" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:ConfigForm.cs" caret="5783" fromTop="35" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:ConfigForm.cs" caret="5602" fromTop="31" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:SyncServer.cs" caret="6416" fromTop="137" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:ConfigForm.cs" caret="5922" fromTop="13" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:ConfigForm.cs" caret="6477" fromTop="13" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:PlayerForm.cs" caret="1574" fromTop="10" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:ConfigForm.cs" caret="7449" fromTop="24" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:SyncServer.cs" caret="2014" fromTop="27" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:SyncServer.cs" caret="5393" fromTop="24" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:PlayerForm.cs" caret="606" fromTop="21" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:ConfigForm.cs" caret="1879" fromTop="36" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:ConfigForm.cs" caret="1838" fromTop="34" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:PlayerForm.cs" caret="342" fromTop="9" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:ConfigForm.cs" caret="1847" fromTop="33" />
+      <File id="192A3DC1-4720-4DAD-8B7E-8E9421CD1A25/f:PlayerForm.cs" caret="716" fromTop="21" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="this" priority="26" />
+      <Item value="MediaControl" priority="80" />
+      <Item value="private" priority="639" />
+      <Item value="_listener" priority="128" />
+      <Item value="ThreadStaticAttribute`0" priority="31" />
+      <Item value="public" priority="891" />
+      <Item value="SyncServer`0" priority="63" />
+      <Item value="new" priority="639" />
+      <Item value="TcpListener" priority="28" />
+      <Item value="_thread" priority="287" />
+      <Item value="Thread" priority="115" />
+      <Item value="void" priority="319" />
+      <Item value="while" priority="95" />
+      <Item value="bool" priority="255" />
+      <Item value="if" priority="607" />
+      <Item value="_running" priority="95" />
+      <Item value="var" priority="511" />
+      <Item value="object" priority="31" />
+      <Item value="client" priority="159" />
+      <Item value="TcpClient`0" priority="128" />
+      <Item value="arg" priority="31" />
+      <Item value="using" priority="30" />
+      <Item value="System" priority="30" />
+      <Item value="BinaryFormatter`0" priority="58" />
+      <Item value="_formatter" priority="187" />
+      <Item value="BinaryFormatter" priority="86" />
+      <Item value="null" priority="159" />
+      <Item value="class" priority="155" />
+      <Item value="Serializable" priority="95" />
+      <Item value="string" priority="63" />
+      <Item value="Console`0" priority="63" />
+      <Item value="ClientMessage`0" priority="64" />
+      <Item value="Formatter`0" priority="63" />
+      <Item value="message" priority="319" />
+      <Item value="SyncClient`0" priority="63" />
+      <Item value="Thread`0" priority="31" />
+      <Item value="_client" priority="479" />
+      <Item value="TcpClient" priority="28" />
+      <Item value="ip" priority="31" />
+      <Item value="int" priority="349" />
+      <Item value="SyncClientMessage`0" priority="214" />
+      <Item value="SyncClientMessage" priority="28" />
+      <Item value="m1" priority="95" />
+      <Item value="stream" priority="127" />
+      <Item value="_server" priority="282" />
+      <Item value="SyncServer" priority="57" />
+      <Item value="SyncClient" priority="57" />
+      <Item value="ConfigForm`0" priority="26" />
+      <Item value="ConfigForm" priority="26" />
+      <Item value="Running" priority="95" />
+      <Item value="true" priority="319" />
+      <Item value="ParameterizedThreadStart" priority="28" />
+      <Item value="try" priority="63" />
+      <Item value="return" priority="447" />
+      <Item value="catch" priority="191" />
+      <Item value="SerializationException`0" priority="63" />
+      <Item value="override" priority="63" />
+      <Item value="SyncClientSubmessage" priority="28" />
+      <Item value="abstract" priority="62" />
+      <Item value="TogglePauseMessage`0" priority="31" />
+      <Item value="Pause" priority="31" />
+      <Item value="pause" priority="31" />
+      <Item value="break" priority="159" />
+      <Item value="ExpectingPositionChange" priority="26" />
+      <Item value="PlayerForm`0" priority="63" />
+      <Item value="_player" priority="607" />
+      <Item value="player" priority="63" />
+      <Item value="Action`0" priority="63" />
+      <Item value="context" priority="160" />
+      <Item value="SyncExecutionContext`0" priority="122" />
+      <Item value="_context" priority="351" />
+      <Item value="PlayState" priority="31" />
+      <Item value="playState" priority="95" />
+      <Item value="PlayPosition" priority="63" />
+      <Item value="playPosition" priority="31" />
+      <Item value="List" priority="31" />
+      <Item value="List&lt;TcpClient&gt;" priority="28" />
+      <Item value="_clients" priority="63" />
+      <Item value="SyncStateMessage`0" priority="90" />
+      <Item value="PropogatedMessage" priority="31" />
+      <Item value="PropogateMessage`0" priority="63" />
+      <Item value="thread" priority="31" />
+      <Item value="foreach" priority="31" />
+      <Item value="in" priority="31" />
+      <Item value="c" priority="31" />
+      <Item value="SyncExecutionContext" priority="28" />
+      <Item value="x" priority="31" />
+      <Item value="switch" priority="63" />
+      <Item value="case" priority="223" />
+      <Item value="SyncStateMessage" priority="28" />
+      <Item value="wmppsPlaying" priority="16" />
+      <Item value="wmppsPaused" priority="16" />
+      <Item value="SyncServerMessage" priority="28" />
+      <Item value="rbServer" priority="95" />
+      <Item value="textBox1" priority="58" />
+      <Item value="Server" priority="63" />
+      <Item value="button1" priority="63" />
+      <Item value="false" priority="191" />
+      <Item value="button2" priority="127" />
+      <Item value="else" priority="191" />
+      <Item value="UpdateVisibility`0" priority="127" />
+      <Item value="rbClient" priority="58" />
+      <Item value="OpenFileDialog" priority="29" />
+      <Item value="dialog" priority="159" />
+      <Item value="OK" priority="16" />
+      <Item value="Func" priority="31" />
+      <Item value="state" priority="31" />
+      <Item value="GetSyncMessage`0" priority="128" />
+      <Item value="IOException`0" priority="159" />
+      <Item value="TopMost" priority="31" />
+      <Item value="checkBox1" priority="31" />
+      <Item value="Closed" priority="58" />
+      <Item value="_config" priority="63" />
+      <Item value="configClosed" priority="63" />
+      <Item value="PlayerClosing" priority="90" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AxWMPLib.AxWindowsMediaPlayer">
+      <Item value="fullScreen" priority="22" />
+      <Item value="uiMode" priority="45" />
+      <Item value="launchURL`0" priority="22" />
+      <Item value="URL" priority="49" />
+      <Item value="Ctlcontrols" priority="261" />
+      <Item value="playState" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.IPAddress">
+      <Item value="Any" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Start`0" priority="161" />
+      <Item value="Abort`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Sockets.TcpListener">
+      <Item value="Start`0" priority="26" />
+      <Item value="AcceptTcpClient`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Sockets.TcpClient">
+      <Item value="GetStream`0" priority="107" />
+      <Item value="Client" priority="49" />
+      <Item value="Close`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Runtime.Serialization.Formatters.Binary.BinaryFormatter">
+      <Item value="Deserialize`0" priority="49" />
+      <Item value="Serialize`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SyncVideo.SyncServer+ClientMessage">
+      <Item value="Text" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SyncVideo.SyncClientMessage">
+      <Item value="Text" priority="53" />
+      <Item value="Execute`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SyncVideo.ConfigForm">
+      <Item value="Show`0" priority="22" />
+      <Item value="ChangePosition`0" priority="22" />
+      <Item value="ChangePlayState`0" priority="22" />
+      <Item value="SyncState`0" priority="22" />
+      <Item value="Close`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WMPLib.IWMPControls">
+      <Item value="currentPosition" priority="76" />
+      <Item value="stop`0" priority="26" />
+      <Item value="pause`0" priority="26" />
+      <Item value="play`0" priority="26" />
+      <Item value="fastForward`0" priority="26" />
+      <Item value="fastReverse`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AxWMPLib._WMPOCXEvents_PlayStateChangeEvent">
+      <Item value="newState" priority="45" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SyncVideo.SyncExecutionContext">
+      <Item value="SetPlayState" priority="53" />
+      <Item value="SetPlayPosition" priority="53" />
+      <Item value="GetSyncMessage" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="26" />
+      <Item value="Remove`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SyncVideo.SyncServerMessage">
+      <Item value="PropogatedMessage" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SyncVideo.PlayerForm">
+      <Item value="ExpectingPositionChange" priority="26" />
+      <Item value="MediaControl" priority="296" />
+      <Item value="ExpectingStateChange" priority="26" />
+      <Item value="Close`0" priority="53" />
+      <Item value="TopMost" priority="26" />
+      <Item value="PlayerClosing" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SyncVideo.SyncClient">
+      <Item value="PropogateToServer`0" priority="80" />
+      <Item value="Running" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@WMPLib.WMPPlayState">
+      <Item value="wmppsStopped" priority="22" />
+      <Item value="wmppsPlaying" priority="22" />
+      <Item value="wmppsScanForward" priority="22" />
+      <Item value="wmppsScanReverse" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.RadioButton">
+      <Item value="Checked" priority="26" />
+      <Item value="CheckedChanged" priority="26" />
+      <Item value="Enabled" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Enabled" priority="26" />
+      <Item value="Text" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Enabled" priority="161" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.OpenFileDialog">
+      <Item value="Filter" priority="26" />
+      <Item value="ShowDialog`0" priority="26" />
+      <Item value="FileName" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SyncVideo.SyncServer">
+      <Item value="PropogateMessage`0" priority="72" />
+      <Item value="Running" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckBox">
+      <Item value="Checked" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

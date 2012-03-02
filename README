@@ -1,0 +1,6 @@
+This is an alpha-stage wrapper around the Windows Media Player com object
+It allows for synchronized video playback between multiple clients and a server
+by propogating media player state changes (paused/playing/stopped and time in playback)
+to all attached clients.
+
+In essence, it is useful for watching videos with others and discussing them
